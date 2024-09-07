@@ -8,6 +8,6 @@
 - 💬 Ask me about my experience with Airtel Xstream, my role as a Social Media Representative, or my 2+ years of corporate experience.
 - 📫 How to reach me: You can reach out via email at goswamjbhavesh@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing badminton and I’m a huge fan of Chole Bhature!
+- ⚡ Fun fact: I love playing badminton.
 ~~~
 
