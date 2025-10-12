@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 I'm a passionate **Software Engineer** and **AI Enthusiast** with professional experience in **Full Stack Development** and research in **Generative AI**.  
-I love building impactful, scalable, and intelligent applications — combining my interests in **AI, Machine Learning**, and **modern web development**.  
+I love building impactful, scalable, and intelligent applications — combining my interests in **AI and **modern web development**.  
 
 💡 Currently pursuing a **Master’s in Applied Computer Science** at **Northwest Missouri State University**, where I also work as a **Graduate Assistant in Generative AI and Data Visualization**.  
 
