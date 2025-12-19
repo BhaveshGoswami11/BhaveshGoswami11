@@ -76,7 +76,7 @@ VS Code | PyCharm | Eclipse | Postman | Figma | Colab
 
 ---
 
-## 📫 Contact / Connect  
+## 📫 Connect  
 - **LinkedIn:** [linkedin.com/in/bhavesh-goswami11](https://www.linkedin.com/in/bhavesh-goswami11/)  
 
 ---
