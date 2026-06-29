@@ -1,136 +1,149 @@
-# 👋 Hi, I’m Bhavesh Goswami
+👋 Hi, I’m Bhavesh Goswami  
+.NET Full Stack Developer | C# | ASP.NET Core | Angular | SQL Server | Azure | AWS  
 
-## Java Backend Engineer | Spring Boot | PostgreSQL | AWS  
-**Building scalable APIs & cloud-native backend systems**
+Building scalable APIs, enterprise-grade applications & cloud-native backend systems
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Java Backend Engineer** with professional experience designing and building **scalable, high-performance backend systems** using **Spring Boot, PostgreSQL, and AWS**.
+I am a .NET Full Stack Developer with 5+ years of experience designing, developing, and deploying scalable enterprise applications using C#, ASP.NET Core, and modern cloud technologies.
 
-My core focus is on:
-- Designing **RESTful APIs**
-- Building **cloud-ready microservices**
-- Writing **clean, maintainable, production-grade Java code**
-- Optimizing performance, scalability, and data flow
+My core focus includes:
 
-I have worked on **enterprise-grade systems** used by real users, collaborating closely with frontend and mobile teams to deliver reliable backend solutions.
+- Designing and developing RESTful APIs using ASP.NET Core
+- Building microservices and enterprise backend systems
+- Developing full-stack applications using Angular/React with .NET backend
+- Optimizing database performance and designing scalable schemas
+- Building cloud-native applications on AWS and Azure
+- Integrating AI/ML capabilities into enterprise .NET systems
 
-I also have **working experience with Generative AI integrations**, but my **primary specialization is backend engineering**, system design, and API development.
+I have strong experience working across backend, frontend, cloud, and data layers in large-scale production systems supporting thousands of users.
 
 ---
 
 ## 🛠️ Core Tech Stack
 
-### Backend Engineering
-- **Java**
-- **Spring Boot**
-- Spring MVC, Spring Data JPA, Hibernate
+### Backend Development
+- C#, .NET (6/7/8), .NET Framework
+- ASP.NET Core (Web API, MVC, Minimal APIs)
+- Entity Framework Core, Dapper
 - RESTful API Design
 - Microservices Architecture
+- WCF, SignalR
+
+### Frontend
+- Angular (2–17), AngularJS
+- React.js
+- TypeScript, JavaScript
+- HTML5, CSS3, Bootstrap, Tailwind
 
 ### Databases
-- **PostgreSQL**
-- MySQL
-- SQL Performance Optimization
-- Schema Design & Data Modeling
+- SQL Server
+- PostgreSQL
+- Oracle, MySQL
+- MongoDB
+- Query Optimization & Schema Design
 
 ### Cloud & DevOps
-- **AWS (EC2, S3, RDS, IAM)**
-- Docker
-- Kubernetes (foundational)
-- CI/CD Pipelines
-- Git, GitHub, GitLab
+- AWS (EC2, S3, RDS, Lambda, API Gateway)
+- Azure (App Service, Azure SQL, Functions, Service Bus)
+- Docker, Kubernetes
+- CI/CD (GitHub Actions, Jenkins, Azure DevOps)
 
-### Caching & Messaging
-- Redis (foundational)
-- Asynchronous processing concepts
+### Architecture & Practices
+- Microservices, N-Tier Architecture
+- Clean Architecture, SOLID Principles
+- CQRS, Repository Pattern, Unit of Work
+- Event-Driven Architecture (Kafka, RabbitMQ)
 
-### Testing & Tools
-- JUnit
-- Postman
-- Maven
-- Linux, macOS
+### Security
+- JWT, OAuth2, ASP.NET Core Identity
+- RBAC, OpenID Connect
 
----
-
-## 💼 Professional Experience
-
-### **Java Full Stack Developer**  
-**I-WEAVE SOLUTIONS PRIVATE LIMITED, India**  
-*Jul 2021 – Mar 2024*
-
-- Designed and developed **scalable backend services** using **Spring Boot and PostgreSQL**
-- Built **REST APIs** consumed by web and mobile applications
-- Optimized backend workflows, reducing latency and improving response times
-- Worked on a **high-traffic Inventory Management Platform**
-- Collaborated with frontend teams to ensure seamless API integration
-- Followed best practices in **clean architecture, exception handling, and logging**
+### AI Integration (Advanced)
+- GPT APIs, LLM integration
+- RAG pipelines (LangChain, LlamaIndex)
+- Vector DBs (Pinecone, FAISS, ChromaDB)
+- Semantic Search, Embeddings
 
 ---
 
-### **Graduate Assistant – Generative AI & Data Visualization**  
-**Northwest Missouri State University**  
-*Jan 2025 – Dec 2025*
+## 💼 Experience
+
+### Full Stack Developer  
+**Community Dreams Foundation | USA | Feb 2026 – Present**
+
+- Built scalable ASP.NET Core REST APIs for enterprise workflows
+- Developed React + Razor-based frontend integrations
+- Implemented JWT + OAuth2 authentication with RBAC
+- Built AI-powered search using embeddings and semantic search
+- Optimized PostgreSQL & Oracle queries using EF Core + Dapper
+- Deployed microservices using Docker + Kubernetes
+- Managed AWS & Azure cloud infrastructure
+
+---
+
+### Graduate Teaching Assistant – Generative AI  
+**Northwest Missouri State University | Jan 2025 – Dec 2025**
 
 - Built backend APIs supporting AI-driven applications
-- Integrated backend services with mobile and web clients
-- Reviewed and optimized **100+ student projects**, enforcing backend best practices
-- Supported API design, modular code structure, and performance improvements
+- Integrated LLMs (OpenAI APIs) with .NET backend systems
+- Mentored students in building RAG-based applications
+- Worked on LangChain, vector databases, and embeddings
 
 ---
 
-## 🚀 Selected Backend Projects
+### Data Assistant  
+**Northwest Missouri State University | Aug 2025 – Dec 2025**
 
-### 🔹 Inventory Management Backend
-**Spring Boot | PostgreSQL | REST APIs**
-
-- Designed modular REST endpoints for inventory, orders, and users
-- Implemented role-based access and secure data handling
-- Optimized SQL queries for performance under load
+- Built ETL pipelines using .NET and Python
+- Optimized SQL Server & PostgreSQL performance
+- Integrated LLM-based automation into data workflows
 
 ---
 
-### 🔹 Cloud-Native API Service
-**Java | Spring Boot | AWS | Docker**
+### Software Engineer – .NET Full Stack  
+**Gangasoft Solutions Pvt. Ltd. | Jun 2021 – Mar 2024**
 
-- Built cloud-ready backend services deployed on AWS
-- Used Docker for containerization
-- Designed APIs following REST and scalability principles
-
----
-
-### 🔹 AI-Integrated Backend Service
-**Spring Boot | REST APIs | RAG Concepts**
-
-- Built backend APIs to support AI-powered applications
-- Integrated external AI services into backend workflows
-- Focused on clean separation of business logic and integrations
+- Developed enterprise applications using ASP.NET Core & MVC
+- Built REST & SOAP APIs for large-scale systems
+- Improved DB performance by 30% using optimized queries
+- Implemented microservices using Kafka & RabbitMQ
+- Automated CI/CD pipelines using Jenkins & GitHub Actions
+- Deployed applications on AWS & Azure cloud
 
 ---
 
-## 🏆 Achievements
+## 🚀 Projects
 
-- Graduate Assistantship Scholarship (50% tuition award)
-- Multiple backend-focused projects demonstrating real-world system design
-- Experience building production-grade Java applications
+### Inventory Management System
+- ASP.NET Core, SQL Server, React
+- Built scalable API-driven inventory platform
 
----
+### AI Medical Chatbot (RAG System)
+- ASP.NET Core, GPT APIs, Neo4j, Python
+- Built intelligent medical Q&A system using LLMs
 
-## 🌱 Currently Focused On
-
-- Advanced **Spring Boot & Microservices**
-- **System design** and backend scalability
-- Cloud-native backend patterns on **AWS**
-- Performance optimization and clean architecture
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/bhavesh-goswami11
+### Real-Time AI Sales Assistant
+- ASP.NET Core, SignalR, Pinecone, Whisper API
+- Built low-latency AI assistant with semantic search
 
 ---
 
-⭐ *“Strong backends power great products. I build systems that scale.”*
+## 🎓 Education
+
+M.S. Applied Computer Science  
+Northwest Missouri State University (GPA: 4.0)
+
+B.Tech Electrical Engineering  
+GLA University
+
+---
+
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/bhavesh-goswami11
+
+---
+
+⭐ “I build scalable .NET systems that power real-world enterprise applications.”
